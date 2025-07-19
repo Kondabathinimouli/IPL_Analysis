@@ -23,7 +23,8 @@ This Power BI project provides an interactive and in-depth analysis of the India
 - GitHub (project sharing)
 
 ## 📸 Sample Screenshot
-Screenshot 2025-07-18 100346.png
+<img width="1337" height="732" alt="Screenshot 2025-07-18 100346" src="https://github.com/user-attachments/assets/f2efdccf-f51c-4719-ba27-9c757b9c1fe7" />
+
 
 ---
 
